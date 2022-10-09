@@ -12,3 +12,4 @@ The output file can be defined as preferred.  The input file should be text file
 ## Improvements
 - Add error handling to verify input file data is of the expected format
 - Add error handling for cases where output file is not provided
+- Add script to create venv and run program within it
